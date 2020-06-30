@@ -50,3 +50,10 @@ body {
     left: 85px;
 
 }
+
+.mjd_header > .header_bar > form input {
+    width: 100%;
+    height: 30px;
+    border-radius:15px;
+    padding: 5px 0 0 30px;
+}
