@@ -20,9 +20,11 @@ body {
 
 .mjd_header > .header_bar {
     height: 40px;
-    width: 100%;
+    min-width: 300px;
+    max-width: 640px;
     position: relative;
     background: rgba(201,21,35,0.85);
+    margin: 0 auto;
 }
 
 .mjd_header > .header_bar > .icon_logo {
